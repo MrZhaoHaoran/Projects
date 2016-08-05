@@ -1,0 +1,13 @@
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\bin\Debug\TestGitHub.pdb
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\MainWindow.g.cs
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\App.g.cs
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub_MarkupCompile.cache
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub_MarkupCompile.lref
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\MainWindow.baml
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub.g.resources
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub.exe
+c:\users\administrator\documents\visual studio 15\Projects\TestGitHub\TestGitHub\obj\Debug\TestGitHub.pdb
